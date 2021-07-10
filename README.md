@@ -15,7 +15,7 @@ deployed here:
 https://xvirix.github.io/portfolio/
 
 # Screenshots and Tutorial
-![alt text](https://github.com/xvirix/portfolio/blob/main/assets/images/image1.jpg)
+![alt text](https://github.com/xvirix/react-portfolio/blob/main/public/portfolio.png)
 
 
 # Contributing 
